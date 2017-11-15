@@ -1,0 +1,10 @@
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\obj\Debug\EmailClientTester.csprojResolveAssemblyReference.cache
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\obj\Debug\EmailClientTester.MainForm.resources
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\obj\Debug\EmailClientTester.Properties.Resources.resources
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\obj\Debug\EmailClientTester.csproj.GenerateResource.Cache
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\bin\Debug\EmailClientTester.exe
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\bin\Debug\EmailClientTester.pdb
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\obj\Debug\EmailClientTester.exe
+C:\Chris\dot net\Projects\ExchangeEmailClient\EmailClientTester\obj\Debug\EmailClientTester.pdb

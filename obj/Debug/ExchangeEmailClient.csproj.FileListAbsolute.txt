@@ -1,0 +1,7 @@
+C:\Chris\dot net\Projects\ExchangeEmailClient\bin\Debug\ExchangeEmailClient.dll
+C:\Chris\dot net\Projects\ExchangeEmailClient\bin\Debug\ExchangeEmailClient.pdb
+C:\Chris\dot net\Projects\ExchangeEmailClient\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Chris\dot net\Projects\ExchangeEmailClient\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Chris\dot net\Projects\ExchangeEmailClient\obj\Debug\ExchangeEmailClient.dll
+C:\Chris\dot net\Projects\ExchangeEmailClient\obj\Debug\ExchangeEmailClient.pdb
+C:\Chris\dot net\Projects\ExchangeEmailClient\obj\Debug\ExchangeEmailClient.csprojResolveAssemblyReference.cache
